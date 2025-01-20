@@ -43,7 +43,7 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
-    "typescript": "~0.0.0
+    "typescript": "~0.0.0"
     "resolutions": 
     "package-a": "2.0.0",
     "package-b": "5.0.0",
