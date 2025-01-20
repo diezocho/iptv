@@ -48,8 +48,5 @@ export default [
 
       semi: ['error', 'never']
     }
-  },
-  {
-    ignores: ['tests/__data__/']
   }
 ]
